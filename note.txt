@@ -1,0 +1,9 @@
+///// Bài Project của Nguyễn Danh Kiên lớp JV_FT231130_HCM module 2 \\\\\
+
+1. Đăng Ký tài khoản
+2. Đăng nhập, thành công sẽ tạo cho mỗi tài khoản 1 mã token khác nhau.
+3. Giải token để hiển thị tên người đăng nhập.
+4. Tìm kiếm sản phẩm
+5. Sort sản phẩm
+6. Phân trang
+7. Chưa hoàn thiện phần addtocart.

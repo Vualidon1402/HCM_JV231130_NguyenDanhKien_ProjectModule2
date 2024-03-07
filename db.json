@@ -1,0 +1,380 @@
+{
+  "categories": [
+    {
+      "id": "vybk9j56l",
+      "name": "Bia Sapporo Premium lốc 6 lon x 650ml",
+      "image": "https://hcm.fstorage.vn/images/2023/04/8936061260355-sapporo-650ml-thung-20230425084140.png",
+      "type": "beer",
+      "price": 445000,
+      "price_before_discount": 556000,
+      "discount": 25,
+      "description": "Bia Sapporo lon 650ml được sản xuất trên dây chuyền công nghệ hiện đại, được giám sát, kiểm soát chặt chẽ từ nguyên liệu đầu vào, chế biến, đóng gói đảm bảo tạo ra sản phẩm chất lượng và an toàn cho người sử dụng.  Bia Sapporo được thiết kế dạng chai nhỏ gọn, dễ dàng mang theo bên mình khi đi học, đi làm, đi chơi, dã ngoại, picnic… Phục vu nhu cầu giải khát của bạn mọi thời điểm. Bia thích hợp cho những dịp tụ tập bạn bè hay vui chơi, liên hoan, tiệc cuối tuần…",
+      "sold": 123,
+      "viewed": 234,
+      "note": "Sử dụng cho người từ 18 tuổi trở lên."
+    },
+    {
+      "id": "smrmrf0c1",
+      "name": "Thùng 24 lon bia Heineken 330ml",
+      "image": "https://hcm.fstorage.vn/images/2023/03/heineken-lon-t24-330ml-20230307043418.jpg",
+      "type": "beer",
+      "price": 445000,
+      "price_before_discount": 556000,
+      "discount": 25,
+      "description": "Bia Heineken lon 330ml có quy trình sản xuất, từ lựa chọn nguyên liệu, chế biến, đóng gói đều được làm trên dây chuyền công nghệ hiện đại, khép kín, đảm bảo việc ra đời sản phẩm có chất lượng tốt, độ an toàn cao. Bia được đóng gói đẹp mắt, thích hợp để để tặng, hay sử dụng cho tiệc ngoài trời, du lịch, dã ngoại.",
+      "sold": 345,
+      "viewed": 456,
+      "note": "Sản phẩm dành cho người trên 18 tuổi và không dành cho phụ nữ mang thai."
+    },
+    {
+      "id": "ci8n0l4k4",
+      "name": "Thùng 24 lon bia Blanc 330ml",
+      "image": "https://hcm.fstorage.vn/images/2022/photo_2022-10-14_17-19-57-2-20221017063131-ogsss.jpg",
+      "type": "beer",
+      "price": 443000,
+      "price_before_discount": 554000,
+      "discount": 25,
+      "description": "...",
+      "sold": 567,
+      "viewed": 678,
+      "note": ""
+    },
+    {
+      "id": "iefu7oeau",
+      "name": "Bơ lạt tự nhiên TH True milk 200g",
+      "image": "https://hcm.fstorage.vn/images/2022/bo-lat-tu-nhien-th-true-milk-200g_4a71ba12-60b2-453c-82cf-98aa122a3494-og.jpg",
+      "type": "milk",
+      "price": 64700,
+      "price_before_discount": 72000,
+      "discount": 10,
+      "description": "Hoàn toàn bằng chất béo của sữa tươi sạch nguyên chất từ Trang trại TH cùng với quá trình lên men tự nhiên tạo nên hương vị thơm ngon. Bơ Lạt Tự Nhiên TH true BUTTER có thể dùng vào nhiều mục đích khác nhau, ngoài việc ăn trực tiếp, ăn kèm với bánh mỳ, sử dụng để làm bánh, cũng có thể kết hợp với việc chiên xào, và chế biến các loại sốt ăn kèm.",
+      "sold": 1456,
+      "viewed": 1460,
+      "note": "Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế."
+    },
+    {
+      "id": "atqblribg",
+      "name": "Sữa tươi tiệt trùng không đường 100% Organic Vinamilk hộp 1L",
+      "image": "https://hcm.fstorage.vn/images/2023/08/nvm-2-20230808092425.jpeg",
+      "type": "milk",
+      "price": 59800,
+      "price_before_discount": 72000,
+      "discount": 12,
+      "description": "Sữa tươi tiệt trùng không đường 100% Organic Vinamilk sản xuất từ nguồn sữa tươi sạch của giống bò được chọn lọc theo tiêu chuẩn hữu cơ nghiêm ngặt. Quy trình chăn nuôi, chế biến và sản xuất sữa đảm bảo đạt các tiêu chuẩn hữu cơ. Sản phẩm được xử lý theo công nghệ tiệt trùng hiện đại ở nhiệt độ thích hợp, giúp giữ được tốt chất lượng vitamin và khoáng chất từ sữa bò tươi nguyên chất. Sản phẩm giúp xương phát triển tốt và cung cấp năng lượng cho cơ thể. Bên cạnh đó, Sữa tươi tiệt trùng không đường 100% Organic Vinamilk chứa nhiều canxi hơn và được tăng cường thêm vitamin A, D giúp cơ thể phát triển toàn diện.",
+      "sold": 235,
+      "viewed": 456,
+      "note": "Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế."
+    },
+    {
+      "id": "gposulzzi",
+      "name": "7UP Nước ngọt chai 1.5L",
+      "image": "https://hcm.fstorage.vn/images/2023/09/sgc_7up-1-5l-t12-20230912035929.png",
+      "type": "soda",
+      "price": 236900,
+      "price_before_discount": 249000,
+      "discount": 5,
+      "description": "Là thương hiệu nước giải khát có gaz vị chanh số 1 tại Việt Nam, 7Up với vị chanh tự nhiên cực thanh mát cùng hàng triệu bọt gaz trong suốt mang đến cho bạn cảm giác cực \"chill\" và sảng khoái tức thì. Dù là tiết trời nóng bức hay những khi phải hoạt động ngoài trời liên tục, 7Up chính là thức uống phù hợp nhất giúp bạn đập tan cơn khát và lấy lại năng lượng tích cực đầy sức sống .",
+      "sold": 5765,
+      "viewed": 6000,
+      "note": "Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế."
+    },
+    {
+      "id": "llpnqdmye",
+      "name": "MIRINDA Nước ngọt chai 1.5L",
+      "image": "https://hcm.fstorage.vn/images/2023/09/sgc_moi_mrd-cam-1-5l-t12-20230914061125.png",
+      "type": "soda",
+      "price": 229900,
+      "price_before_discount": 272000,
+      "discount": 15,
+      "description": "Nước giải khát vị cam cực mạnh Mirinda​ được sản xuất trên dây chuyền hiện đại, không chứa chất bảo quản và hóa chất độc hại cho người sử dụng. Sản phẩm thuộc thương hiệu nước giải khát nổi tiếng Pepsico nên người dùng hoàn toàn yên tâm về chất lượng. Nước giải khát vị cam cực mạnh Mirinda​ với hương vị đặc trưng, không chỉ giải khát, mà còn giúp bạn lấy lại năng lượng cho hoạt động hàng ngày.",
+      "sold": 768,
+      "viewed": 900,
+      "note": "Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế."
+    },
+    {
+      "id": "juxqir0sh",
+      "name": "PEPSI Nước ngọt chai 1.5/1.75L",
+      "image": "https://hcm.fstorage.vn/images/2023/09/1-sku_pepsi-1-5l-t24-20230911072142.png",
+      "type": "soda",
+      "price": 229900,
+      "price_before_discount": 260000,
+      "discount": 10,
+      "description": "Pepsi là nhãn hiệu nước giải khát hương Cola có gas nổi tiếng toàn cầu, được kế thừa nhiều giá trị lịch sử lâu đời. Tại Việt Nam, tự hào là một nhãn hàng đại diện cho tiếng nói của giới trẻ cùng với thông điệp “CỨ TRẺ, CỨ CHẤT, CỨ PEPSI”, chúng tôi luôn tìm cách mang đến lại những trải nghiệm sảng khoái tột đỉnh, khuyến khích người trẻ nắm bắt và tận hưởng từng khoảnh khắc thú vị của cuộc sống. Nước Ngọt Có Gaz Pepsi với hương cola hấp dẫn, mang lại cảm giác sảng khoái, giải nhiệt tức thì trong những ngày nóng bức.",
+      "sold": 1998,
+      "viewed": 2000,
+      "note": "Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế."
+    },
+    {
+      "id": "urcgeeiuo",
+      "name": "FANTA Nước ngọt soda kem 320/330mlT24",
+      "image": "https://hcm.fstorage.vn/images/2022/162428430252210324836-t-thit-ba-roi-bu-my-fine-food-khay-400g-og.jpg",
+      "type": "soda",
+      "price": 198500,
+      "price_before_discount": 284000,
+      "discount": 20,
+      "description": "Nước ngọt Fanta hương soda kem trái cây 330ml chứa nhiều vitamin C sẽ cung cấp năng lượng cho cơ thể trong một ngày dài hoạt động. Ngoài ra, với công nghệ sản xuất hiện đại, sản phẩm đạt tiêu chuẩn vệ sinh an toàn thực phẩm, không gây ảnh hưởng đến sức khỏe của bạn. Sản phẩm​ với hương vị đặc trưng, không chỉ giải khát, mà còn giúp bạn lấy lại năng lượng cho hoạt động hàng ngày.",
+      "sold": 754,
+      "viewed": 1254,
+      "note": "Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế."
+    },
+    {
+      "id": "kz0pl3aa3",
+      "name": "Thùng 24 chai nước ngọt coca 390ml",
+      "image": "https://hcm.fstorage.vn/images/2024/01/du-an-moi-21--20240102071829.jpg",
+      "type": "soda",
+      "price": 175900,
+      "price_before_discount": 308000,
+      "discount": 30,
+      "description": "Nước giải khát có gas Coca Cola chai 390ml được sản xuất từ những nguyên liệu cao cấp, chọn lọc. Sản phẩm được sản xuất trên dây chuyền công nghệ hiện đại, khép kín của Mỹ. Các công đoạn sản xuất đều được thực hiện dưới sự giám sát chặt chẽ của các chuyên gia, đảm bảo tạo ra sản phẩm an toàn và có chất lượng cao nhất.",
+      "sold": 2678,
+      "viewed": 3000,
+      "note": "Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế."
+    },
+    {
+      "id": "cd850o8y2",
+      "name": "Lốc 4 hộp sữa tiệt trùng THTRUE MILK topkid 180ml",
+      "image": "https://hcm.fstorage.vn/images/2022/162427310808410325039-g4-sua-tuoi-tiet-trung-th-true-milk-cu-duong-hop-1-lot-og.jpg",
+      "type": "milk",
+      "price": 57400,
+      "price_before_discount": 60000,
+      "discount": 5,
+      "description": "Với tâm huyết và trăn trở của người sáng lập “làm cho trẻ em ly sữa bằng cả trái tim và tấm lòng của người mẹ” để mang đến sản phẩm từ sữa tươi sạch thơm ngon giàu dưỡng chất tạo nền móng cho một chặng đường dài phát triển toàn diện tích cực của trẻ, TH dày công nghiên cứu sáng tạo và ra mắt sản phẩm Sữa tươi tiệt trùng TH True Milk TopKid vị kem vani tự nhiên hoàn toàn từ sữa tươi Organic – Khỏe Mạnh Tự Nhiên Từ Tình Yêu Của Mẹ. ",
+      "sold": 178,
+      "viewed": 234,
+      "note": "Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế."
+    },
+    {
+      "id": "nbea1teuc",
+      "name": "Gạo Lứt Đồ Simply 1kg",
+      "image": "https://hcm.fstorage.vn/images/2023/05/simply-lut-do-1kg-a-20230526101932.png",
+      "type": "food",
+      "price": 66600,
+      "price_before_discount": 80000,
+      "discount": 20,
+      "description": "Đặc tính sản phẩm:  - Gạo Lứt Đồ Simply là loại gạo lứt đặc biệt, được chọn lọc từ giống lúa phù hợp và sản xuất thông qua quá trình thủy nhiệt dưới áp suất cao trước khi sấy khô và tách bỏ lớp vỏ trấu bên ngoài.  - Công nghệ Đồ (thủy nhiệt) hiện đại giúp các vitamin, khoáng chất và dưỡng chất chống ôxy hóa từ lớp vỏ cám được thẩm thấu vào sâu bên trong hạt gạo.  - Gạo Lứt Đồ Simply được Viện Dinh Dưỡng Quốc Gia kiểm nghiệm và chứng nhận là sản phẩm có chỉ sổ đường huyết thấp (GI<55), tốt cho người bệnh tiểu đường.  - Bên cạnh đó, công nghệ Đồ còn tác động lên cấu trúc tinh bột bên trong lõi hạt gạo, đồng thời thành phần chất xơ rất giàu ở lớp vỏ cám cũng giúp cơ thể dễ tiêu hóa.  - Đặc biệt, Gạo Lứt Đồ Simply không cần phải ngâm gạo trước khi nấu nhưng vẫn cho hạt cơm mềm và bùi.",
+      "sold": 678,
+      "viewed": 801,
+      "note": "Sau khi mở bao bì, sản phẩm cần được giữ kín ở nơi khô ráo và nên sử dụng hết trong vòng 30 ngày."
+    },
+    {
+      "id": "nl5tidm9e",
+      "name": "Mì trộn ăn liền Jjajangmen Paldo gói 200g",
+      "image": "https://hcm.fstorage.vn/images/2023/08/648436100590-20230817033316.jpg",
+      "type": "food",
+      "price": 30900,
+      "price_before_discount": 46000,
+      "discount": 50,
+      "description": "Mì trộn ăn liền Jjajangmen Paldo gói 200g Mì trộn ăn liền Jjajangmen Paldo gói 200g được làm từ bột mì, bột khoai tây chọn lọc, kết hợp với công nghệ hiện đại nên có độ mềm dai nhất định và màu vàng đẹp mắt. Sản phẩm đóng gói tiện lợi, dễ dàng sử dụng và bảo quản. Mì trộn Jjajangmen là món ăn dễ chế biến và được nhiều người yêu thích. Chỉ cần vài thao tác đơn giản, bạn có thể làm chín mì thành công, có độ dai, mềm và màu vàng đẹp mắt. Thêm một chút gia vị và tương tàu có sẵn, tô mì thơm ngon đã sẵn sàng cho bạn thưởng thức và trải nghiệm.  Được sản xuất theo công thức truyền thống và dây chuyền hiện đại tại Hàn Quốc, Mì trộn ăn liền Jjajangmen Paldo gói 200g luôn đạt được niềm tin và uy tín của người dùng suốt những năm qua. Sản phẩm đảm bảo an toàn thực phẩm nên bạn hoàn toàn yên tâm khi dùng trong bữa ăn sáng hay các bữa ăn nhanh.",
+      "sold": 369,
+      "viewed": 400,
+      "note": "Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế."
+    },
+    {
+      "id": "layde9948",
+      "name": "Mì gói ăn liền vị gà cay Samyang 145g",
+      "image": "https://hcm.fstorage.vn/images/2023/09/10307181-20230911041013.png",
+      "type": "food",
+      "price": 36800,
+      "price_before_discount": 46000,
+      "discount": 25,
+      "description": "Mì gói ăn liền vị gà cay Samyang 145g được sản xuất theo công nghệ hiện đại, mọi khâu từ tuyển chọn nguyên liệu tới chế biến, đóng bao bì đều diễn ra khép kín dưới sự giám sát và kiểm tra nghiêm ngặt. Sản phẩm không chứa hóa chất, chất bảo quản độc hại, đảm bảo an toàn cho sức khỏe người tiêu dùng. Đối với những người bận rộn, không có nhiều thời gian chuẩn bị bữa ăn thì thực phẩm chế biến sẵn là một giải pháp hữu hiệu. Sản phẩm giúp tiết kiệm thời gian trong khâu sơ chế, chế biến mang đến ch obạn bữa ăn ngon và đầy đủ chất dinh dưỡng.     Mì gói ăn liền vị gà cay Samyang 145g được đóng gói nhỏ gọn, tiện lợi cho bạn sử dụng cũng như bảo quản, bạn cũng có thể mang theo dễ dàng trong những chuyến đi chơi, picnic để làm bữa ăn phụ, tiết kiệm thời gian và công sức. Sản phẩm do Vinmart phân phối luôn mang đến chất lượng tốt cho người tiêu dùng.",
+      "sold": 357,
+      "viewed": 579,
+      "note": "Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế.Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế."
+    },
+    {
+      "id": "c7gd8r1h2",
+      "name": "Ngũ cốc ăn sáng Koko Krunch Nestlé hộp 170g",
+      "image": "https://hcm.fstorage.vn/images/2022/162428257567010015554-hop-sua-chua-uong-lon-vi-vi-dou-kun-loc-4-hop-x-180ml-og.jpg",
+      "type": "food",
+      "price": 60500,
+      "price_before_discount": 67000,
+      "discount": 10,
+      "description": "Ngũ cốc ăn sáng Koko Krunch Nestlé là sản phẩm được nhập khẩu trực tiếp từ Malaysia. Sản phẩm là thực phẩm bổ sung dinh dưỡng bao gồm các loại vitamin, protein, chất béo, khoáng chất, năng lượng được cân chỉnh phù hợp với nhu cầu dinh dưỡng hàng ngày cho người sử dụng.    Ngũ cốc ăn sáng Koko Krunch Nestlé đã được chế biến sẵn rất tiện lợi. Bạn chỉ cần ít phút trộn sản phẩm cùng với sữa tươi là đã có một bữa ăn sáng bổ dưỡng, thơm ngon khởi đầu ngày mới căng tràn sức sống hay cũng có thể làm món ăn nhẹ trong ngày. Ngũ cốc đã được đóng hộp kín đáo, giúp chất lượng sản phẩm được bảo quản an toàn và hợp vệ sinh.",
+      "sold": 468,
+      "viewed": 567,
+      "note": "Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế."
+    },
+    {
+      "id": "brw14j0t5",
+      "name": "Xúc xích O’lala Veal 450g",
+      "image": "https://hcm.fstorage.vn/images/2023/04/8934954013774-20230428072327.png",
+      "type": "food",
+      "price": 41000,
+      "price_before_discount": 47000,
+      "discount": 15,
+      "description": "...",
+      "sold": 30,
+      "viewed": 60,
+      "note": "Hình ảnh chỉ mang tính chất minh họa, thực tế sẽ khác 1 chút"
+    },
+    {
+      "id": "m1cfz4w6a",
+      "name": "Ấm siêu tốc Sunhouse SHD1182 1.8L 1500W",
+      "image": "https://hcm.fstorage.vn/images/2022/12341863579678-og.jpg",
+      "type": "electric Appliances",
+      "price": 305000,
+      "price_before_discount": 450000,
+      "discount": 50,
+      "description": "...",
+      "sold": 123,
+      "viewed": 150,
+      "note": "Bảo hành 1 tuần."
+    },
+    {
+      "id": "w9y8oujbm",
+      "name": "Vỉ nướng điện Lock & Lock DSA-4525 đen EJG211BLK",
+      "image": "https://hcm.fstorage.vn/images/2022/vi-nuong-dien-lock-lock-dsa-4525-den-ejg211blk.jpg",
+      "type": "electric Appliances",
+      "price": 1529000,
+      "price_before_discount": 1988000,
+      "discount": 30,
+      "description": "Vỉ nướng điện Lock & Lock DSA-4525 đen EJG211BLK được thiết kế gọn nhẹ, sử dụng tiện lợi, bạn có thể dễ dàng mang theo trong những buổi cắm trại, picnic,… Tổng thể sản phẩm mang thiết kế hiện đại theo phong cách Hàn Quốc. Viền mặt trước và mặt sau được làm bằng thép không gỉ, hai bên tay cầm được làm bằng nhựa chống nóng hiệu quả, đảm bảo an toàn khi sử dụng. Vỉ nướng được phủ lớp chống dính chất lượng cao nhập khẩu từ Nhật Bản, không có chứa chất độc hại PFOA, tiết kiệm thời gian khi chùi rửa. Bề mặt vỉ nướng có lỗ thoát dầu và bên dưới vỉ có ngăn hứng dầu, giúp dễ dàng loại bỏ dầu mỡ thừa khi đang nướng. Đồng thời, vỉ nướng được đính kèm theo giá đỡ, giúp nâng một bên vỉ nướng (bên cắm bộ điều nhiệt) cao hơn bên còn lại (bên có lỗ thoát dầu) để dầu mỡ có thể dễ dàng chảy về phía lỗ thoát dầu, vừa mang lại món ăn ngon, vừa đảm bảo an toàn sức khỏe cho bạn và những người thân trong gia đình.  Vỉ nướng điện Lock & Lock DSA-4525 đen EJG211BLK có công suất 1800W, có khả năng làm nóng nhanh từ nhiệt độ phòng 20 o C lên 240 o C chỉ trong 1 phút, giúp cho thực phẩm được chín nhanh và đều, đồng thời giữ được hương vị của món ăn. Với 5 mức nhiệt linh hoạt để bạn tùy chỉnh theo từng món ăn, thiết bị thích hợp để chuẩn bị thức ăn cho 2 – 6 người ăn.",
+      "sold": 20,
+      "viewed": 100,
+      "note": "Bảo hành 1 tuần."
+    },
+    {
+      "id": "qeiix7wcm",
+      "name": "Máy xay sinh tố Lock&Lock EJM331 500ml",
+      "image": "https://hcm.fstorage.vn/images/2022/l-l-may-xay-sinh-to-500ml-ejm331_39815d87-74b0-486b-883d-706c9aec6bc3-og.jpg",
+      "type": "electric Appliances",
+      "price": 1471000,
+      "price_before_discount": 1986000,
+      "discount": 35,
+      "description": "...",
+      "sold": 15,
+      "viewed": 234,
+      "note": "Bảo hành 1 tuần."
+    },
+    {
+      "id": "11e8kdogi",
+      "name": "Bàn Ủi Hơi Nước Dạng Đứng Lock&Lock ENI211 - Hồng Phối Trắng",
+      "image": "https://hcm.fstorage.vn/images/2022/l-l-ban-la-hoi-nuoc-hong-p_3a9609b6-2832-4d1e-a4c5-e44cb9765a04-og.tr%E1%BA%AFng%20eni211",
+      "type": "electric Appliances",
+      "price": 2766000,
+      "price_before_discount": 3870000,
+      "discount": 40,
+      "description": "...",
+      "sold": 15,
+      "viewed": 300,
+      "note": "Bảo hành 1 tháng."
+    },
+    {
+      "id": "6ru44rspn",
+      "name": "Nhộng tằm",
+      "image": "https://hcm.fstorage.vn/images/2022/nhong-tam-mv_2d639e35-f4fc-4261-8905-4d01abe1ebec-og.jpg",
+      "type": "food",
+      "price": 120000,
+      "price_before_discount": 132000,
+      "discount": 10,
+      "description": "...",
+      "sold": 1968,
+      "viewed": 1971,
+      "note": "Thơm ngon mời bạn ăn nha."
+    },
+    {
+      "id": "r0erzracb",
+      "name": "Ếch làm sạch",
+      "image": "https://hcm.fstorage.vn/images/2022/ech-lam-sach_3e3d00ff-83e7-4478-b53a-11f3aa62a67a-og.jpg",
+      "type": "food",
+      "price": 179000,
+      "price_before_discount": 197000,
+      "discount": 10,
+      "description": "Là thực phẩm không chỉ thơm ngon mà còn bổ dưỡng vô cùng. Thịt ếch chứa nhiều protein, vitamin tốt cho cơ thể nên thường được dùng làm nguyên liệu nấu các món ăn chính trong gia đình như thịt ếch kho tộ, ếch xào sả ớt, cháo ếch,... Thịt ếch Bách hoá XANH tươi ngon, bổ dưỡng, hàng mới mỗi ngày.    Giá trị dinh dưỡng của ếch làm sạch  Trong thịt ếch chứa nhiều protein, chất béo, các vitamin A, các vitamin B, các vitamin E, các vitamin D, các khoáng chất như kali, photpho, kẽm,...  Trong 100g thịt ếch có khoảng 73 Kcal.  Tác dụng của ếch làm sạch đối với sức khỏe  Khắc phục tổn thương tim  Giúp chữa lành vết thương  Tăng cường sức khỏe.",
+      "sold": 876,
+      "viewed": 987,
+      "note": "Bảo quản nơi mát mẻ."
+    },
+    {
+      "id": "ac9bzfhiz",
+      "name": "Thùng 24 lon bia Hà Nội Habeco 330ml",
+      "image": "https://hcm.fstorage.vn/images/2022/annotation-2022-10-17-131216-20221017061236-og.jpg",
+      "type": "beer",
+      "price": 279000,
+      "price_before_discount": 307000,
+      "discount": 10,
+      "description": "Sản xuất trên dây chuyền hiện đại Bia Hà Nội Habeco lon 330ml được lên men theo công nghệ truyền thống trong nhiều ngày liên tục. Với mục đích để đạt được hương vị phù hợp với người Việt Nam nhất. Các bước sản xuất và đóng gói đều dựa trên công nghệ tiên tiến. Hầu hết mọi bước đều được tự động hóa trên máy móc dưới sự điều khiển của con người để đạt được độ chính xác cao nhất có thể. Từ những nỗ lực trong sản xuất, mỗi sản phẩm bia đều có màu vàng óng, mùi thơm đặc trưng, hương vị đậm đà.  Hương vị dành cho người Việt Trong thành phần của bia rất giàu vitamin B3, B5, axit folic... hỗ trợ tái tạo tế bào và có thể ngăn ngừa ung thư ruột kết. Bia còn là thức uống rất tốt cho sức khỏe của tim nếu được sử dụng với lượng phù hợp.  Bia là thức uống không thể thiếu cho các dịp lễ Tết, tụ họp gia đình và bạn bè. Đồng thời cũng có thể sử dụng làm quà tặng cũng rất tình cảm, trang trọng và lịch sự.  Theo khuyến cáo của các chuyên gia dinh dưỡng, một ly bia mỗi ngày có thể giúp bạn giảm stress và giảm nguy cơ đau tim, đột quỵ.  Bảo quản sản phẩm ở nơi khô ráo, thoáng mát, tránh va đập mạnh.",
+      "sold": 6789,
+      "viewed": 6868,
+      "note": "Sản phẩm dành cho người trên 18 tuổi và không dành cho phụ nữ mang thai. Thưởng thức có trách nhiệm, đã uống đồ uống có cồn thì không lái xe!"
+    }
+  ],
+  "authen": [
+    {
+      "id": "329b",
+      "name": "nguyendanhkien1402@gmail.com",
+      "email": "kien@gmail.com",
+      "password": "123123",
+      "cart": [
+        {
+          "product_id": "11e8kdogi",
+          "name": "Bàn Ủi Hơi Nước Dạng Đứng Lock&Lock ENI211 - Hồng Phối Trắng",
+          "image": "https://hcm.fstorage.vn/images/2022/l-l-ban-la-hoi-nuoc-hong-p_3a9609b6-2832-4d1e-a4c5-e44cb9765a04-og.tr%E1%BA%AFng%20eni211",
+          "price": 2766000,
+          "total_price": 1319.97,
+          "quantity": 3
+        },
+        {
+          "id": "496826801611",
+          "product_id": "m1cfz4w6a",
+          "quantity": 1,
+          "total_price": null
+        },
+        {
+          "id": "400386656225",
+          "product_id": "nl5tidm9e",
+          "quantity": 1
+        },
+        {
+          "id": "827737332961",
+          "product_id": "qeiix7wcm",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "ac9b",
+      "name": "nguyendanhkien1402@gmail.com",
+      "email": "nguyendanhkien1402@gmail.com",
+      "password": "123456",
+      "code": "123456",
+      "cart": [
+        {
+          "id": "1050576102657",
+          "product_id": "nl5tidm9e",
+          "quantity": 1
+        },
+        {
+          "id": "285448120506",
+          "product_id": "m1cfz4w6a",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "receipt": [
+    {
+      "id": "267234440516",
+      "created_at": "2024-03-07T07:25:22.893Z",
+      "userName": "Google",
+      "phoneNumber": "0934123123",
+      "address": "150",
+      "payment_method": "",
+      "status": "pending",
+      "total_price": 1540,
+      "product": [
+        {
+          "id": "692380712134",
+          "name": "Romance Cake",
+          "img": "https://firebasestorage.googleapis.com/v0/b/ecommerce-react-ts-45a3b.appspot.com/o/cake%2Fae06bbfc-e...2cfbbb3a",
+          "price": 239.99,
+          "product_id": "8",
+          "quantity": 0,
+          "total_price": 0
+        }
+      ],
+      "user_id": "1"
+    }
+  ]
+}

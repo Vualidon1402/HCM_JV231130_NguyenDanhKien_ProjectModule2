@@ -1,0 +1,130 @@
+.formRegister {
+  width: 430px;
+  margin: 30px auto 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 2px 0 rgb(255, 212, 212);
+}
+
+.headerRegister {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  img {
+    width: 150px;
+  }
+}
+
+.titleRegister {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: gray;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  &:focus {
+    outline: none;
+    border: 1px solid #ff0000;
+  }
+}
+
+.error {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.btnRegister {
+  width: 100%;
+  background-color: #ff0000;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btnRegister:hover {
+  background-color: #fd0404d0;
+}
+
+.register-tc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 17px;
+  gap: 5px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+.register-textor {
+  text-align: center;
+  border: 1px solid white;
+  background-color: white;
+  width: 50px;
+  position: absolute;
+  top: 50%;
+  left: 44%;
+}
+.register-btnLogin {
+  width: 100%;
+  background-color: white;
+  color: #ff0000;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 1px solid #ff0000;
+}
+.register-textOrHr {
+  position: relative;
+  padding-top: 25px;
+  margin-bottom: 27px;
+}
+.register-linkTc {
+  color: #ff0000;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+#username {
+  width: 390px;
+  height: 50px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#password {
+  width: 390px;
+  height: 50px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#email {
+  width: 390px;
+  height: 50px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#code {
+  width: 390px;
+  height: 50px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}

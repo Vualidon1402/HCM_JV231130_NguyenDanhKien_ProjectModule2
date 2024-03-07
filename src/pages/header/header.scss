@@ -1,0 +1,170 @@
+// --reset--
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-above {
+  background-color: red;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 80px;
+
+  &-left {
+    width: 590px;
+    height: 95px;
+    img {
+      width: 190px;
+      height: 95px;
+    }
+    display: flex;
+    justify-content: space-around;
+  }
+  &-search {
+    position: relative;
+    display: flex;
+    width: 380px;
+    height: 41px;
+    padding-top: 30px;
+    button {
+      border: none;
+    }
+    &-icon {
+      width: 20px;
+      height: 20px;
+      color: gray;
+      position: absolute;
+      top: 38px;
+      left: 10px;
+    }
+    input {
+      border-radius: 5px;
+      border: none;
+      outline: none;
+      width: 350px;
+      height: 39px;
+      border-radius: 15px;
+      padding-left: 35px;
+    }
+  }
+  &-right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 790px;
+    height: 80px;
+    &-address {
+      position: relative;
+      button {
+        width: 263px;
+        height: 41px;
+        border-radius: 15px;
+        border: none;
+      }
+      &-icon {
+        color: red;
+        position: absolute;
+        top: 7px;
+        left: 10px;
+      }
+    }
+    &-cart {
+      text-decoration: none;
+      color: white;
+      align-items: center;
+      position: relative;
+      &-icon {
+        position: absolute;
+        top: -5px;
+        left: -25px;
+      }
+    }
+    &-authen {
+      width: 200px;
+      text-align: end;
+    }
+  }
+}
+
+.header-authen {
+  color: white;
+  position: relative;
+  &-icon {
+    position: absolute;
+    top: -5px;
+    left: -25px;
+  }
+}
+
+.header-under {
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 40px;
+  box-shadow: 0px 0px 0px 2px rgba(0, 0, 0, 0.25);
+  &-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 850px;
+    gap: 40px;
+    &-contact {
+      position: relative;
+      &-icon {
+        position: absolute;
+        top: -5px;
+        left: -25px;
+      }
+    }
+    &-help {
+      position: relative;
+      &-icon {
+        position: absolute;
+        top: -5px;
+        left: -25px;
+      }
+    }
+  }
+}
+
+.authenContainer {
+  position: relative;
+  height: 100%;
+  &:hover {
+    .dropDownAuthen {
+      display: block;
+    }
+  }
+  .authenInfo {
+    position: absolute;
+    top: -1.2rem;
+    right: 0;
+    height: 60px;
+    color: white;
+  }
+  .dropDownAuthen {
+    display: none;
+    position: absolute;
+    top: 2.5rem;
+    right: 0;
+    background-color: #d3cba6;
+    width: 150px;
+    height: 120px;
+    z-index: 1;
+    padding: 0 0.5rem 0.5rem 0.5rem;
+    text-align: start;
+    &:hover {
+      display: block;
+    }
+  }
+}
+.authenItem {
+  padding-top: 1rem;
+  cursor: pointer;
+  &:hover {
+    color: red;
+  }
+}
