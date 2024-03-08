@@ -49,6 +49,7 @@ const Register = () => {
 
       if (emailExists) {
         setEmailError("Email đã tồn tại");
+        setPasswordError("Mật khẩu phải có ít nhất 6 ký tự");
         toast.error("Đăng ký thất bại");
         return;
       }
@@ -102,6 +103,7 @@ const Register = () => {
         />
 
         <TextField
+          required
           id="email"
           label="Email"
           variant="outlined"
@@ -114,6 +116,8 @@ const Register = () => {
         />
         <p className="error">{emailError}</p>
         <TextField
+          inputProps={{ minLength: 6 }}
+          required
           id="password"
           onChange={handleInputPassword}
           label="Mật khẩu"

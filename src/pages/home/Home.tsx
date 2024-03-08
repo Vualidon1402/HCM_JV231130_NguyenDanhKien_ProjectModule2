@@ -1,16 +1,16 @@
-import React, { useState, useEffect } from "react";
 import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
-import Header from "../header/Header";
-import Footer from "../footer/Footer";
 import RemoveRedEyeIcon from "@mui/icons-material/RemoveRedEye";
-import axios from "axios";
 import Pagination from "@mui/material/Pagination";
-import "./home.scss";
+import axios from "axios";
+import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { authenActions } from "../../store/slices/authen.slice";
 import CountdownTimer from "../../components/time/CountdownTimer";
 import { UserDataAction } from "../../store/slices/user.slice";
-
+import Footer from "../footer/Footer";
+import Header from "../header/Header";
+import AdComponent from "./components/ad/Ad";
+import Boottrap from "./components/boottrap/Boottrap";
+import "./home.scss";
 interface Product {
   id: number;
   discount: number;
@@ -33,8 +33,6 @@ const Home: React.FC = () => {
 
   const userStore = useSelector((store: any) => store.UserDataReducer);
 
-  // console.log("userstore", userStore.data.id);
-
   const handleAddToCart = (product_id: number | undefined) => {
     const updatedUserDataCart = userStore.data?.cart.map((cart) => {
       if (cart.product_id == product_id) {
@@ -49,8 +47,6 @@ const Home: React.FC = () => {
       }
       return cart;
     });
-
-    // Check if the product_id was not found in the cart
 
     const isNewItem = !updatedUserDataCart?.some(
       (cart) => cart.product_id == product_id
@@ -129,46 +125,50 @@ const Home: React.FC = () => {
     <div className="home_page">
       <Header products={products} setProducts={setProducts} setType={setType} />
       <div className="home_page_body">
-        <button
-          className="view"
-          onClick={() => {
-            setSort((prevSort) => {
-              return prevSort === "-viewed" ? "viewed" : "-viewed";
-            });
-          }}
-        >
-          {sort === "viewed" ? "Xem nhiều nhất" : "Xem ít nhất "}
-        </button>
-        <button
-          className="discount"
-          onClick={() =>
-            setSort((prevSort) => {
-              return prevSort === "-discount" ? "discount" : "-discount";
-            })
-          }
-        >
-          {sort == "discount" ? "Giảm giá nhiều nhất" : "Giảm giá ít nhất"}
-        </button>
-        <button
-          className="price"
-          onClick={() =>
-            setSort((prevSort) => {
-              return prevSort === "-price" ? "price" : "-price";
-            })
-          }
-        >
-          {sort == "price" ? "Giá cao nhất" : "Giá thấp nhất"}
-        </button>
-        <button
-          className="sold"
-          onClick={() =>
-            setSort((prevSort) => {
-              return prevSort == "-sold" ? "sold" : "-sold";
-            })
-          }
-        >
-          {sort === "sold" ? "Đã bán nhiều nhất" : "Đã bán ít nhất"}
-        </button>
+        <Boottrap />
+        <AdComponent onClose={() => {}} />
+        <div className="action">
+          <button
+            className="view"
+            onClick={() => {
+              setSort((prevSort) => {
+                return prevSort === "-viewed" ? "viewed" : "-viewed";
+              });
+            }}
+          >
+            {sort === "-viewed" ? "Xem ít nhất" : "Xem nhiều nhất "}
+          </button>
+          <button
+            className="discount"
+            onClick={() =>
+              setSort((prevSort) => {
+                return prevSort === "-discount" ? "discount" : "-discount";
+              })
+            }
+          >
+            {sort == "-discount" ? "Giảm giá ít nhất" : "Giảm giá nhiều nhất"}
+          </button>
+          <button
+            className="price"
+            onClick={() =>
+              setSort((prevSort) => {
+                return prevSort === "-price" ? "price" : "-price";
+              })
+            }
+          >
+            {sort == "-price" ? "Giá thấp nhất" : "Giá cao nhất"}
+          </button>
+          <button
+            className="sold"
+            onClick={() =>
+              setSort((prevSort) => {
+                return prevSort == "-sold" ? "sold" : "-sold";
+              })
+            }
+          >
+            {sort === "-sold" ? "Đã bán ít nhất" : "Đã bán nhiều nhất"}
+          </button>
+        </div>
         <div className="time_container">
           <div className="timer">
             <h1>Siêu khuyến mãi</h1>

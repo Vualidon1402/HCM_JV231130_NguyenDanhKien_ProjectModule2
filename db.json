@@ -1,60 +1,8 @@
 {
   "categories": [
     {
-      "id": "vybk9j56l",
-      "name": "Bia Sapporo Premium lốc 6 lon x 650ml",
-      "image": "https://hcm.fstorage.vn/images/2023/04/8936061260355-sapporo-650ml-thung-20230425084140.png",
-      "type": "beer",
-      "price": 445000,
-      "price_before_discount": 556000,
-      "discount": 25,
-      "description": "Bia Sapporo lon 650ml được sản xuất trên dây chuyền công nghệ hiện đại, được giám sát, kiểm soát chặt chẽ từ nguyên liệu đầu vào, chế biến, đóng gói đảm bảo tạo ra sản phẩm chất lượng và an toàn cho người sử dụng.  Bia Sapporo được thiết kế dạng chai nhỏ gọn, dễ dàng mang theo bên mình khi đi học, đi làm, đi chơi, dã ngoại, picnic… Phục vu nhu cầu giải khát của bạn mọi thời điểm. Bia thích hợp cho những dịp tụ tập bạn bè hay vui chơi, liên hoan, tiệc cuối tuần…",
-      "sold": 123,
-      "viewed": 234,
-      "note": "Sử dụng cho người từ 18 tuổi trở lên."
-    },
-    {
-      "id": "smrmrf0c1",
-      "name": "Thùng 24 lon bia Heineken 330ml",
-      "image": "https://hcm.fstorage.vn/images/2023/03/heineken-lon-t24-330ml-20230307043418.jpg",
-      "type": "beer",
-      "price": 445000,
-      "price_before_discount": 556000,
-      "discount": 25,
-      "description": "Bia Heineken lon 330ml có quy trình sản xuất, từ lựa chọn nguyên liệu, chế biến, đóng gói đều được làm trên dây chuyền công nghệ hiện đại, khép kín, đảm bảo việc ra đời sản phẩm có chất lượng tốt, độ an toàn cao. Bia được đóng gói đẹp mắt, thích hợp để để tặng, hay sử dụng cho tiệc ngoài trời, du lịch, dã ngoại.",
-      "sold": 345,
-      "viewed": 456,
-      "note": "Sản phẩm dành cho người trên 18 tuổi và không dành cho phụ nữ mang thai."
-    },
-    {
-      "id": "ci8n0l4k4",
-      "name": "Thùng 24 lon bia Blanc 330ml",
-      "image": "https://hcm.fstorage.vn/images/2022/photo_2022-10-14_17-19-57-2-20221017063131-ogsss.jpg",
-      "type": "beer",
-      "price": 443000,
-      "price_before_discount": 554000,
-      "discount": 25,
-      "description": "...",
-      "sold": 567,
-      "viewed": 678,
-      "note": ""
-    },
-    {
-      "id": "iefu7oeau",
-      "name": "Bơ lạt tự nhiên TH True milk 200g",
-      "image": "https://hcm.fstorage.vn/images/2022/bo-lat-tu-nhien-th-true-milk-200g_4a71ba12-60b2-453c-82cf-98aa122a3494-og.jpg",
-      "type": "milk",
-      "price": 64700,
-      "price_before_discount": 72000,
-      "discount": 10,
-      "description": "Hoàn toàn bằng chất béo của sữa tươi sạch nguyên chất từ Trang trại TH cùng với quá trình lên men tự nhiên tạo nên hương vị thơm ngon. Bơ Lạt Tự Nhiên TH true BUTTER có thể dùng vào nhiều mục đích khác nhau, ngoài việc ăn trực tiếp, ăn kèm với bánh mỳ, sử dụng để làm bánh, cũng có thể kết hợp với việc chiên xào, và chế biến các loại sốt ăn kèm.",
-      "sold": 1456,
-      "viewed": 1460,
-      "note": "Hình sản phẩm chỉ mang tính chất minh họa, hình thực tế bao bì của sản phẩm tùy thời điểm sẽ khác so với thực tế."
-    },
-    {
       "id": "atqblribg",
-      "name": "Sữa tươi tiệt trùng không đường 100% Organic Vinamilk hộp 1L",
+      "name": "0 đường 200%",
       "image": "https://hcm.fstorage.vn/images/2023/08/nvm-2-20230808092425.jpeg",
       "type": "milk",
       "price": 59800,
@@ -298,6 +246,19 @@
       "sold": 6789,
       "viewed": 6868,
       "note": "Sản phẩm dành cho người trên 18 tuổi và không dành cho phụ nữ mang thai. Thưởng thức có trách nhiệm, đã uống đồ uống có cồn thì không lái xe!"
+    },
+    {
+      "id": "t0c3mqy0a",
+      "name": "123",
+      "image": "",
+      "type": "",
+      "price": 0,
+      "price_before_discount": 0,
+      "discount": 0,
+      "description": "",
+      "sold": 0,
+      "viewed": 0,
+      "note": ""
     }
   ],
   "authen": [
@@ -349,8 +310,109 @@
           "id": "285448120506",
           "product_id": "m1cfz4w6a",
           "quantity": 1
+        },
+        {
+          "id": "425311461435",
+          "product_id": "kz0pl3aa3",
+          "quantity": 1
+        },
+        {
+          "id": "1012363326184",
+          "product_id": "qeiix7wcm",
+          "quantity": 1
         }
       ]
+    },
+    {
+      "id": "2510",
+      "name": "nguyendanhki",
+      "email": "test1@gmail.com",
+      "password": "123456",
+      "code": "123456",
+      "cart": []
+    },
+    {
+      "id": "3b4a",
+      "name": "",
+      "email": "",
+      "password": "",
+      "code": "",
+      "cart": []
+    },
+    {
+      "id": "0d27",
+      "name": "",
+      "email": "",
+      "password": "1",
+      "code": "",
+      "cart": []
+    },
+    {
+      "id": "0569",
+      "name": "nguyendanhkien",
+      "email": "test3@gmail.com",
+      "password": "123456",
+      "code": "123",
+      "cart": [
+        {
+          "id": "1081456941508",
+          "product_id": "nl5tidm9e",
+          "quantity": 1
+        },
+        {
+          "id": "1355839609750",
+          "product_id": "m1cfz4w6a",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "7657",
+      "name": "",
+      "email": "test@gmail.com",
+      "password": "",
+      "code": "",
+      "cart": []
+    },
+    {
+      "id": "7560",
+      "name": "",
+      "email": "",
+      "password": "123456",
+      "code": "",
+      "cart": []
+    },
+    {
+      "id": "a838",
+      "name": "",
+      "email": "1234@gmail.com",
+      "password": "1",
+      "code": "",
+      "cart": []
+    },
+    {
+      "id": "2141",
+      "name": "",
+      "email": "123@gmail.com",
+      "password": "1",
+      "code": "",
+      "cart": []
+    },
+    {
+      "id": "31f3",
+      "name": "",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "code": "",
+      "cart": []
+    },
+    {
+      "id": "7025",
+      "name": "",
+      "email": "test@gmail.com",
+      "password": "12345678",
+      "code": "",
+      "cart": []
     }
   ],
   "receipt": [

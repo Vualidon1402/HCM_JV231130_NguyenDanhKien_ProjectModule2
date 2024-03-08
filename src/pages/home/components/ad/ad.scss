@@ -1,0 +1,29 @@
+.Ad {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+  z-index: 9999;
+  background-color: rgba(24, 22, 22, 0.692);
+}
+
+.ad-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  z-index: 9999;
+}
+
+.ad-content {
+  margin-bottom: 10px;
+}
+
+.close-btn {
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}

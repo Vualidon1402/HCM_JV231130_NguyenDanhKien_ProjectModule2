@@ -1,7 +1,7 @@
 import axios from "axios";
 import React, { ChangeEvent, FormEvent } from "react";
 import { useNavigate, Link } from "react-router-dom";
-import { toast } from "react-toastify";
+import { ToastContainer, toast } from "react-toastify";
 import "../authen/login.scss";
 import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 import TextField from "@mui/material/TextField";
@@ -69,6 +69,7 @@ const Login = () => {
 
   return (
     <div className="formLogIn">
+      <ToastContainer />
       <div className="headerLogIn">
         <Link to="/register">
           <ArrowBackIcon />
@@ -81,6 +82,7 @@ const Login = () => {
       <h1 className="titleLogIn">Đăng nhập</h1>
       <form onSubmit={handleSubmit}>
         <TextField
+          required
           autoFocus
           id="email"
           label="Email"
@@ -94,6 +96,8 @@ const Login = () => {
         />
         <p className="error">{emailError}</p>
         <TextField
+          inputProps={{ minLength: 6 }}
+          required
           id="password"
           label="Mật khẩu"
           variant="outlined"

@@ -5,7 +5,7 @@ $footerH: 150px;
 .home_page {
   width: 100%;
   height: 100vh;
-  padding-top: 120px;
+  padding-top: 126px;
   header {
     height: $headerH;
 
@@ -54,7 +54,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   border: 1px solid transparent;
-  height: 470px;
+  height: 550px;
   background-color: white;
   &-Discount {
     position: absolute;
@@ -145,4 +145,28 @@ body {
   padding: 0 20px;
   margin-bottom: 20px;
   margin-top: 20px;
+}
+
+.action {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 80%;
+  margin: auto;
+  width: 80%;
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: rgba(255, 0, 0, 0.233);
+    color: rgba(255, 0, 0, 0.726);
+  }
 }
